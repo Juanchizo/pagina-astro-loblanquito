@@ -1,1 +1,1 @@
-Una vieja pagina web de los blanquitos pero ahora con el framework de Astro!
+Una vieja pagina web (hecha por mi) de los blanquitos pero ahora con el framework de Astro y muchas mas cosas!
